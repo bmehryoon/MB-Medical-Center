@@ -28,9 +28,6 @@
         <mxCell id="f9ui4OXNzKTa3i6xdIia-17" value="First Name:" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-350" y="443" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="f9ui4OXNzKTa3i6xdIia-18" value="Today: Wednesday February 5, 2025" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="120" y="760" width="220" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="f9ui4OXNzKTa3i6xdIia-19" value="Middle Initial:" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="120" y="443" width="100" height="26" as="geometry" />
         </mxCell>
