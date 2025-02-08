@@ -112,6 +112,18 @@
         <mxCell id="Vr7kXE8isVgl0S4oktUO-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="960" width="140" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="750" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-13" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="740" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-14" value="Medical History (Check all that apply to you):" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="738" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-15" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry y="740" width="450" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
