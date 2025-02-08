@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram name="mis3371-homework1-diagram.jpg" id="mLDkHNEDJ28dsiYG45EL">
-    <mxGraphModel dx="1972" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,13 +230,34 @@
           <mxGeometry x="-307.5" y="1250" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1690" width="20" height="20" as="geometry" />
+          <mxGeometry x="-270" y="1350" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1720" width="20" height="20" as="geometry" />
+          <mxGeometry x="-145" y="1350" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-88" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="60" y="1606" width="480" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-89" value="&lt;b&gt;How urgent is your medical situation?&amp;nbsp;&lt;/b&gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1300" width="300" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-91" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="1800" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-92" value="Low" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-317.5" y="1347" width="32.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-93" value="Moderate" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="1347" width="67.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-95" value="High" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-112.5" y="1347" width="42.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-96" value="No" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1740" width="22.5" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
