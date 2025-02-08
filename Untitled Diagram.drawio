@@ -103,8 +103,8 @@
         <mxCell id="Vr7kXE8isVgl0S4oktUO-1" value="Describe Symptoms:" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-350" y="642" width="150" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Vr7kXE8isVgl0S4oktUO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="644" width="480" height="20" as="geometry" />
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-5" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="642" width="480" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
