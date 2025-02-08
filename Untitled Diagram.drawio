@@ -236,7 +236,7 @@
           <mxGeometry x="-130" y="1350" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-88" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1450" width="480" height="88" as="geometry" />
+          <mxGeometry x="-335" y="1450" width="480" height="88" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-89" value="&lt;b&gt;How urgent is your medical situation?&amp;nbsp;&lt;/b&gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-335" y="1300" width="300" height="24" as="geometry" />
@@ -260,7 +260,7 @@
           <mxGeometry x="190" y="1740" width="22.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-97" value="&lt;b&gt;Note: &lt;/b&gt;If this is a high-risk emergency, please call 911 immediately." style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1390" width="480" height="24" as="geometry" />
+          <mxGeometry x="-333.75" y="1390" width="480" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-98" value="Make an Account" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="-350" y="1637" width="200" height="26" as="geometry" />
