@@ -116,7 +116,7 @@
           <mxGeometry x="-350" y="740" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-14" value="Medical History (Check all that apply to you):" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="786" width="330" height="24" as="geometry" />
+          <mxGeometry x="-335" y="738" width="330" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-15" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry y="740" width="450" height="22" as="geometry" />
@@ -203,10 +203,10 @@
           <mxGeometry x="-335" y="1055" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1420" width="20" height="20" as="geometry" />
+          <mxGeometry x="-255" y="1145" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-262.5" y="1476" width="20" height="20" as="geometry" />
+          <mxGeometry x="-335" y="1145" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-67" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1018" width="590" height="22" as="geometry" />
@@ -224,13 +224,13 @@
           <mxGeometry x="-295" y="1052" width="20" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-75" value="No" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1450" width="22.5" height="26" as="geometry" />
+          <mxGeometry x="-220" y="1142" width="22.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-76" value="Yes" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-177.5" y="1304" width="20" height="26" as="geometry" />
+          <mxGeometry x="-295" y="1142" width="20" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-79" value="No" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="1460" width="22.5" height="26" as="geometry" />
+          <mxGeometry x="-220" y="1052" width="22.5" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
