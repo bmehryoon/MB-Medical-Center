@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram name="mis3371-homework1-diagram.jpg" id="mLDkHNEDJ28dsiYG45EL">
-    <mxGraphModel dx="1804" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1972" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,9 +163,6 @@
         <mxCell id="Vr7kXE8isVgl0S4oktUO-50" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="-350" y="1030" width="800" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Vr7kXE8isVgl0S4oktUO-51" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1330" width="800" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-52" value="Gender" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-335" y="928" width="50" height="24" as="geometry" />
         </mxCell>
@@ -180,9 +177,6 @@
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-56" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="-350" y="1020" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Vr7kXE8isVgl0S4oktUO-57" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1320" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-58" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="-350" y="940" width="800" height="70" as="geometry" />
@@ -231,6 +225,18 @@
         </mxCell>
         <mxCell id="Vr7kXE8isVgl0S4oktUO-79" value="No" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-220" y="1052" width="22.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-84" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Emergency Assessment&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-307.5" y="1250" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1720" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vr7kXE8isVgl0S4oktUO-88" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1606" width="480" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
